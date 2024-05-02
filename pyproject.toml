@@ -14,6 +14,12 @@ scikit-learn = "^1.4.2"
 nltk = "^3.8.1"
 markovify = "^0.9.4"
 scipy = "^1.13.0"
+pypdf2 = "^3.0.1"
+openai = "^1.25.0"
+python-dotenv = "^1.0.1"
+qdrant-client = "^1.9.0"
+llama-index = "^0.10.33"
+llama-index-embeddings-openai = "^0.1.9"
 
 
 [build-system]
